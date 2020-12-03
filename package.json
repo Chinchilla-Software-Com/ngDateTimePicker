@@ -1,0 +1,13 @@
+{
+	"name": "@chinchilla-software/ng-date-time-picker",
+	"private": false,
+	"version": "1.0.1",
+	"description": "AngularJS wrapper for JQuery UI date time pickers",
+	"repository": "https://github.com/Chinchilla-Software-Com/ngDateTimePicker",
+	"dependencies": {
+		"angular": "1.8.2",
+		"jquery": "3.5.1",
+		"jquery-ui": "1.12.1",
+		"@chinchilla-software/jquery-ui-timepicker-addon": "1.6.3"
+	}
+}
